@@ -1,9 +1,5 @@
-node('jenkins-slave1'){
+node{
 
-stage('GIT'){
-git 'https://github.com/chiuki/android-hello-world.git'
-
-}
 stage('Clean Build') {
 sh "./gradlew clean"
 sh "pwd"
