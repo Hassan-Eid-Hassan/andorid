@@ -1,4 +1,0 @@
-node{
-  stage('test2'){
-    echo "test2"
-}
