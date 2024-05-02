@@ -60,4 +60,4 @@ Contributions are welcome! If you find issues or have suggestions for improvemen
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](*https://github.com/Hassan-Eid-Hassan/andorid/edit/master/LICENSE) file for details.
